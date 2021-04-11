@@ -31,12 +31,12 @@ The project will be deployed soon.
 Go to the ConnectionProvider of com.murari.blog.helper:
 
 ```bash
-$ change connection properties in line 14 and 16.
+change connection properties in line 14 and 16.
 ```
 #### 2. Create database table 
 
 ```bash
-$ create database table mapped with LikesDAO,PostDAO,UserDAO from com.murari.blog.dao
+create database table mapped with LikesDAO,PostDAO,UserDAO from com.murari.blog.dao
 ```
 #### 3. Run on Server 
 ```bash

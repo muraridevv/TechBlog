@@ -48,15 +48,19 @@ Right click on project name->Run As->Run on Server.
 
 ## App screenshots
 
-1. **Home Page**
+1. **Welcome Page**
 
- ![App Screenshot](readme-images/kl-social-network-home-gregor.PNG)
+ ![App Screenshot](readme-images/welcome.png)
 
-2. **Friends Page**
+2. **Login Page**
 
- ![App Screenshot](readme-images/kl-social-network-friends-gregor.PNG)
+ ![App Screenshot](readme-images/login.png)
 
-3. **Photos Page**
+3. **Home Page**
 
- ![App Screenshot](readme-images/kl-social-network-photos-gregor.PNG)
+ ![App Screenshot](readme-images/home.png)
+
+4. **About Page**
+
+ ![App Screenshot](readme-images/about.png)
 
